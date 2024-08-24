@@ -37,13 +37,14 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, find, forEach
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
@@ -70,6 +71,13 @@ Apresentar os dados
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringify(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
