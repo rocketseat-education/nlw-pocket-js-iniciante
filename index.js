@@ -135,7 +135,7 @@ const deletarMetas = async () => {
         })
     })
 
-    mensagem = "Meta(s) deleta(s) com sucesso!"
+    mensagem = "Meta(s) deletada(s) com sucesso!"
 }
 
 const mostrarMensagem = () => {
